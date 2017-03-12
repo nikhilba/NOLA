@@ -5,4 +5,4 @@ Data Analytics Capstone Project: Analyze the existing open data for the city of 
 The New Orleans Police Department (NOPD) is part of the DOJ’s Violence Reduction Network that aims at reducing the outbreak of violent crime and allocate resources effectively when tackling violent crimes
 
 # STATUS
-This is an ongoing project and is expected to be completed by the end of April.
+This is an ongoing project and is expected to be completed by the end of April 2017.
